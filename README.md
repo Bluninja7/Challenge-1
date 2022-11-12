@@ -15,7 +15,7 @@
 - N/A
 
 # Link
-- https://bluninja7.github.io/Horiseon/
+- https://bluninja7.github.io/Challenge-1/
 
 
 
