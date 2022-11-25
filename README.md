@@ -8,24 +8,22 @@
 - N/A
 
 # Usage
-- Read brief descriptions of 3 services.
-- Links to 3 services.
+- Brief descriptions of 3 services.
 
 # Credits
 - N/A
 
 # Link
-- https://bluninja7.github.io/Challenge-1/
+- https://bluninja7.github.io/Horeseon-HTML-CSS-Refactor/
 
 
 
 # License
-- Refer to license in the repo.
+- No license.
 
 # Screenshot
-- <img width="540" alt="Screenshot Horiseon 1 of 2" src="https://user-images.githubusercontent.com/112138082/200202856-c7813246-d10c-444e-9c9d-f7ae19399eb8.png">
 
-![Screenshot Horiseon 2 of 2](https://user-images.githubusercontent.com/112138082/200202858-85f220dd-5b71-4575-94dd-f7c1abfa5d7b.png)
+<img src="https://user-images.githubusercontent.com/112138082/204057005-e9a3b768-8557-4ce4-876c-90c33d8fb036.png" style=" width: 80%"  >
 
 
 
